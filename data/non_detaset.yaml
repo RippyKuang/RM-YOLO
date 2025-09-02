@@ -1,0 +1,23 @@
+path: ../datasets/detaset  # dataset root dir
+train: train  # train images (relative to 'path') 128 images
+val: val  # val images (relative to 'path') 128 images
+nclr: 2
+# Classes
+names:
+  0: sb
+  1: sr
+  2: hb
+  3: hr
+  4: eb
+  5: er
+  6: 3b
+  7: 3r
+  8: 4b
+  9: 4r
+  10: 5b
+  11: 5r
+  12: ob
+  13: or
+  14: bb
+  15: br
+

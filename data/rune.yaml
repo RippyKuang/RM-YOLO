@@ -1,0 +1,10 @@
+
+path: ../rune  # dataset root dir
+train: train  # train images (relative to 'path') 128 images
+val: val  # val images (relative to 'path') 128 images
+nclr: 0
+# Classes
+names:
+  0: nn
+  1: aa
+
